@@ -1,7 +1,7 @@
-- 👋 Hey, I'm Harika Rachamalla
-- I work as a Full Stack Developer with UI/UX Design Skills.
+- 👋 Hey, This is Harika Rachamalla
+- I'm a Full Stack Developer, & a doodler with a keen eye.
 
-Since 2017, I've been living and breathing Web Development & Creating modern & User friendly Interfaces. 
+Since 2017, I've been living and breathing Web Development, Creating modern & User friendly Interfaces & bringing products to life.
 I've had the chance to immerse myself in many different technologies & projects helping to make this world a little better through my designs & code.
 I always try to enhance my Skills & Learn new Technologies.
 
