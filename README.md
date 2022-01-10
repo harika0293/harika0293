@@ -10,6 +10,9 @@ I always try to enhance my Skills & Learn new Technologies.
 Favorite Quote:memo:- People who are really serious about software should make their own hardware.
 -Alan Kay
 
+- My Digital Garden:seedling:
+- I write regular blog posts, I write about things I am familiar with & things that I am Learning.
+
 <!---
 harika0293/harika0293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
