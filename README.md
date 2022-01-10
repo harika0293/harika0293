@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Harika, a Full Stack Dev & a doodler
+- 👋 Hi, I'm Harika, I'm a Full Stack Dev & a doodler
 
 Since 2017, I've been living and breathing Web Development, Creating modern & User friendly Interfaces & bringing products to life.
 I've had the chance to immerse myself in many different technologies & projects helping to make this world a little better through my designs & code.
