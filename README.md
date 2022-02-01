@@ -1,6 +1,7 @@
-- 👋 Hi, I'm Harika, Software Test Engineer & a doodler
+- 👋 Hi, I'm Harika, a Full Stack Developer & a Doodler
 
-Professional Software Test Engineer with 5+ Years experience & hands-on technical utility player, who enjoys synergies, having additional experience in the Start-up Environment. 
+- From past few years, I've been living, breathing web development, creating modern & userfriendly Interfaces & bringing those products to life.
+- I've had chance to immerse myself in many different technologies & projects, helping to make this world a little better through my designs & code. I always try to enhance my skills & learn new technologies.
 
 - Ouside CS I enjoy Podcasts:headphones:, Reading books:books:, & Content Writing:pencil2: as well.
 
