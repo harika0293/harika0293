@@ -7,7 +7,7 @@
 Favorite Quote:memo:- People who are really serious about software should make their own hardware.
 -Alan Kay
 
-![](https://github.com/harika0293/Harika-Gif-jpg)
+![alt text](https://github.com/harika0293/Harika-Gif-jpg)
 
 
 
