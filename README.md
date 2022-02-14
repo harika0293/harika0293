@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Harika Rachamalla</h1>
-<h3 align="center">Design Engineer | Full Stack Developer</h3>
+<h3 align="center">App Designer | Full Stack Developer</h3>
 
 - From past few years, I've been living, breathing web development, creating modern & userfriendly Interfaces & bringing those products to life. I've had chance to immerse myself in many different technologies & projects, helping to make this world a little better through my designs & code. I always try to enhance my skills & learn new technologies.
 
