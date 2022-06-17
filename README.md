@@ -1,7 +1,8 @@
- <h1 align="center">Hi 👋, I'm Harika Rachamalla</h1>
+ <h1 align="center">Hello World 👋 I'm Harika Rachamalla</h1>
 <h3 align="center">App Designer | MERN Stack Developer</h3>
 
-- From past few years, I've been living, breathing web development, creating modern & userfriendly Interfaces & bringing those products to life. I've had chance to immerse myself in many different technologies & projects, helping to make this world a little better through my designs & code. I always try to enhance my skills & learn new technologies.
+- From past few years, I've been living, breathing web development, creating modern & userfriendly Interfaces & bringing those products to life. I've had chance to immerse myself in many different technologies & projects, helping to make this world a little better through my designs & code. 𝐕𝐢𝐬𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧𝐬 𝐚𝐧𝐝 𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 𝐰𝐞𝐫𝐞 𝐦𝐲 𝐠𝐚𝐭𝐞𝐰𝐚𝐲𝐬 𝐭𝐨 𝐭𝐡𝐢𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲.
+
 
 - Ouside CS I enjoy Podcasts:headphones:, Reading books:books:, & Content Writing:pencil2: as well.
 
