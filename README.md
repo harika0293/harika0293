@@ -14,7 +14,7 @@ Favorite Quote:memo:- People who are really serious about software should make t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harika0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harika0293" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harika-rachamalla-93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harika0293" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harika-rachamalla93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harika0293" height="30" width="40" /></a>
 <a href="https://instagram.com/harika_0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harika_0293" height="30" width="40" /></a>
 </p>
 
