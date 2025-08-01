@@ -1,5 +1,5 @@
  <h1 align="center">Hello World 👋 I'm Harika Rachamalla</h1>
-<h3 align="center">App Designer | React Developer</h3>
+<h3 align="center">Designer | React Developer</h3>
 
 - From past few years, I've been living, breathing web development, creating modern & userfriendly Interfaces & bringing those products to life. I've had chance to immerse myself in many different technologies & projects, helping to make this world a little better through my designs & code. Visual Designs & User Interfaces were my gateways to this Creative Industry.
 
