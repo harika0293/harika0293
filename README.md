@@ -3,7 +3,7 @@
 
 - From past few years, I've been living, breathing web development, creating modern & userfriendly Interfaces & bringing those products to life. I've had chance to immerse myself in many different technologies & projects, helping to make this world a little better through my designs & code. Visual Designs & User Interfaces were my gateways to this Creative Industry.
 
-- Ouside CS I enjoy Podcasts:headphones:, Reading books:books:, & Content Writing:pencil2: as well.
+- Ouside CS I enjoy Podcasts, Reading books & Content Writing as well.
 
 Favorite Quote:memo:- People who are really serious about software should make their own hardware.
 -Alan Kay
