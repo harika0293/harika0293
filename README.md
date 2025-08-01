@@ -5,7 +5,7 @@
 
 - Ouside CS I enjoy Podcasts, Reading books & Content Writing as well.
 
-Favorite Quote:memo:- People who are really serious about software should make their own hardware.
+Favorite Quote: People who are really serious about software should make their own hardware.
 -Alan Kay
 
 
